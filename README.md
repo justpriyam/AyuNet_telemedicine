@@ -2,14 +2,17 @@
 
 AyuNet is a modern telemedicine platform designed to bridge the healthcare gap in rural and underserved regions. It provides AI-driven symptom analysis, real-time doctor consultations, pharmacist integration, emergency support, and role-based dashboards — creating a complete healthcare ecosystem accessible from anywhere.
 
-
+```
 █████╗ ██╗   ██╗██╗   ██╗███╗   ██╗███████╗████████╗
 ██╔══██╗██║   ██║██║   ██║████╗  ██║██╔════╝╚══██╔══╝
 ███████║██║   ██║██║   ██║██╔██╗ ██║█████╗     ██║   
 ██╔══██║██║   ██║██║   ██║██║╚██╗██║██╔══╝     ██║   
 ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗   ██║   
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   
+
 Rural Telemedicine | AI Symptom Checker | 3-Role Access
+```
+
 📚 Table of Contents
 
 Overview
